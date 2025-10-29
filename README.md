@@ -26,8 +26,12 @@
   - Order quantity by ship mode --> menunjukkan proporsi jumlah order berdasarkan metode pengiriman, sehingga mudah melihat mode pengiriman yang paling banyak digunakan
 - Column chart
   - Order quantity by product container --> menampilkan jumlah pesanan berdasarkan jenis kemasan produk untuk membantu memahami pola pengemasan yang dominan
-- Filter/slicer
-  - Order Year, City, Customer Type, Order Priority, Product Name --> pengguna dapat memfilter data berdasarkan periode, lokasi, tipe pelanggan, prioritas pesanan, atau produk tertentu
+- Filter/slicer --> pengguna dapat memfilter data berdasarkan periode, lokasi, tipe pelanggan, prioritas pesanan, atau produk tertentu
+  - Order Year: 2016, 2017, 2018, 2019, 2020
+  - City: Jakarta, Bandung, Surabaya
+  - Customer Type: consumer, corporate, home office, small business
+  - Order Priority: critical, high, low, medium, not specified
+  - Product Name: nama-nama produk 
 ---
 # ❓ Business Question
 1. Bagaimana performa penjualan toko selama periode 2016–2020?
