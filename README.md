@@ -50,3 +50,5 @@
 # ✨ Recommendations
 - Fokus pada promosi di bulan dengan tren tinggi yaitu bulan September dan mencari penyebab penurunan di bulan Oktober
 - Melakukan evaluasi ulang untuk kategori furniture dengan mempertimbangkan promosi, bundling, atau penggantian produk
+---
+![alt text](https://github.com/adventaa/Projek_Store-Data-Analysis/blob/main/Dashboard.png?raw=true)
