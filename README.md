@@ -5,7 +5,7 @@
 - 1000 rows and 22 columns
 ---
 # 🧰 Tools
-- Microsoft Excel (Pivot Tables & Charts)
+- Microsoft Excel 
 - Power BI Desktop
 - DAX (Data Analysis Expressions)
 - File format: .pbix untuk development dan .png untuk preview dashboard
